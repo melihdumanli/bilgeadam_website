@@ -1,20 +1,7 @@
-#box_sizing{
-    background: lightblue;
-    height: 200px;
-    width: 300px;
-    padding: 20px;
+*{
     box-sizing: border-box;
-    display: inline-block;
-}
-#box_sizing:hover{
-    
 }
 
-#go_to_form{
-    width: 25px;
-    height: 25px;
-    background-color: red;
-    position: fixed;
-    bottom: 500px;
-    right: 0px;
+body{
+    font-family: 'Inconsolata', monospace;
 }
